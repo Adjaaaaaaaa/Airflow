@@ -5,6 +5,7 @@ Projet inspiré du Lab 2 de Ramin Mohammadi, réalisé uniquement avec Apache Ai
 L’objectif : automatiser un pipeline de régression logistique sur des données publicitaires.
 
 ⚙️ Structure
+```
 airflow_home/
 ├── dags/
 │   ├── data/advertising.csv
@@ -12,6 +13,7 @@ airflow_home/
 │   └── main.py
 ├── templates/ (emails)
 └── requirements.txt
+```
 
 ## 🚀 Installation
 python3 -m venv airflow_env
