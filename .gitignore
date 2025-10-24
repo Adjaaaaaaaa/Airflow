@@ -136,6 +136,7 @@ celerybeat.pid
 
 # Environments
 airflow_venv
+airflow.cfg
 logs/
 .env
 .envrc
